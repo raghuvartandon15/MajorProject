@@ -1,0 +1,16 @@
+Date,Category,Type,Amount,Description
+2025-01-01,Income,Salary,5000,Monthly salary from employer
+2025-01-05,Expense,Rent,1200,Monthly apartment rent
+2025-01-10,Expense,Utilities,150,Electricity and water bills
+2025-01-15,Expense,Groceries,300,Monthly grocery shopping
+2025-01-20,Investment,401k Contribution,400,Pre-tax retirement contribution
+2025-01-25,Tax,Income Tax Paid,750,Monthly tax deduction from salary
+2025-02-01,Income,Freelance,800,Freelance project payment
+2025-02-05,Expense,Medical,200,Doctor's visit and prescription
+2025-02-10,Deduction,Health Insurance,250,Pre-tax health insurance deduction
+2025-02-15,Tax,Estimated Tax Payment,500,Quarterly estimated tax payment
+2025-02-20,Investment,Roth IRA,300,Post-tax retirement investment
+2025-03-01,Income,Dividend,100,Stock dividends received
+2025-03-05,Expense,Travel,600,Business travel expense
+2025-03-10,Deduction,Charitable Donation,100,Donation to qualified charity
+2025-03-15,Tax,Income Tax Paid,800,Tax withheld from salary
